@@ -1,0 +1,15 @@
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/bin/Debug/net7.0/pertemuan_6
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/bin/Debug/net7.0/pertemuan_6.deps.json
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/bin/Debug/net7.0/pertemuan_6.runtimeconfig.json
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/bin/Debug/net7.0/pertemuan_6.dll
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/bin/Debug/net7.0/pertemuan_6.pdb
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.csproj.AssemblyReference.cache
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.AssemblyInfoInputs.cache
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.AssemblyInfo.cs
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.csproj.CoreCompileInputs.cache
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.dll
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/refint/pertemuan_6.dll
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.pdb
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/pertemuan_6.genruntimeconfig.cache
+/Users/nikenlismiati/Documents/C# NEWWW/pertemuan_6/pertemuan_6/obj/Debug/net7.0/ref/pertemuan_6.dll
